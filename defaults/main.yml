@@ -13,6 +13,7 @@ common_pkgs:
   - telnet
   - vim
   - wget
+  - bash-completion
 
 #extra_pkgs:
 #  - nc
